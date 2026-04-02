@@ -1,7 +1,8 @@
 # 🎨 Paint.NET
 <img width="640" height="427" alt="image" src="https://github.com/user-attachments/assets/f659d16f-3cca-4702-b446-5e3276ff61ee" />
 Paint.NET is a free, lightweight image and photo editing software designed for simplicity and performance. It offers a clean interface with powerful tools suitable for both beginners and advanced users.
-# [Download a version of Paint.NET](https://GitHub.com/DreamPack-Software/Paint.NET/releases)
+
+# [Download a version of Paint.NET](https://github.com/DreamPack-Software/Paint.NET/releases)
 
 ##🚀 Features
 ---
